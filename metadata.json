@@ -1,0 +1,8 @@
+{
+  "name": "Gemini AI Mock Interviewer",
+  "description": "A real-time AI-powered interview practice platform using Gemini Live API with vision and audio capabilities.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
